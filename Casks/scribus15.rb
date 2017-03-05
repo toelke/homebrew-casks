@@ -1,4 +1,4 @@
-cask 'scribus' do
+cask 'scribus15' do
   version '1.5.2'
   sha256 'fe59486427b67e1920894b2da64c4d034b388ed27412637ca59b35f297d6b9ff'
 

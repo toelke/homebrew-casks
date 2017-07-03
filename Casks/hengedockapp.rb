@@ -1,6 +1,6 @@
 cask 'hengedockapp' do
-  version '2.1.0'
-  sha256 '9777e245d59f87b95c1df932063bb9761cace19fe0db312d8c567d490a76ff4f'
+  version '3.0.1'
+  sha256 'c3d9b190db314196c4ec84cf6879d96f4fa26be1830fa6231d4527eaf226e31a'
 
   url "https://d2hsqacop69ok8.cloudfront.net/dockapp_#{version}/DockAppInstaller#{version}.pkg.cpgz"
   name 'DockApp'

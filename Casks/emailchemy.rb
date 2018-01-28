@@ -1,6 +1,6 @@
 cask 'emailchemy' do
-  version '14.0.2'
-  sha256 '1cbe2b86cce12b5c5c98b7eac0f819b077b65c122a13ceefda8252b7837b4526'
+  version '14.0.4'
+  sha256 '1df8441c261c9030f90a142690e2a2dbece3dede8747c559b48c934c0be1406c'
 
   url "https://s3.amazonaws.com/wksdownload/Emailchemy-Mac.dmg"
   name 'Emailchemy'

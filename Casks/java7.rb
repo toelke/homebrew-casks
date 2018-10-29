@@ -53,7 +53,7 @@ cask 'java7' do
                     ],
             rmdir:  '~/Library/Application Support/Oracle/'
 
-  caveats <<-EOS.undent
+  caveats <<~EOS
     This Cask makes minor modifications to the JRE to prevent any packaged
     application issues.
 

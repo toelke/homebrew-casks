@@ -8,5 +8,5 @@ cask 'sozi' do
   name 'Sozi'
   homepage 'https://sozi.baierouge.fr/'
 
-  app "Sozi-#{version}-1555944973-osx-x64/Sozi.app"
+  app "Sozi-#{version}.22-1555944973-osx-x64/Sozi.app"
 end

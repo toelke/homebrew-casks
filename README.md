@@ -1,5 +1,7 @@
 # Overview #
 
+* **deep**
+ - Tagging and file management https://ironicsoftware.com/deep/
 * **dosbox**
  - Fixed version of DOSBox that is installable on case-sensitive file systems
 * **fresh**

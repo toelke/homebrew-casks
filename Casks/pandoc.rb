@@ -1,6 +1,6 @@
-cask 'pandoc21' do
-  version '2.1.3'
-  sha256 'db66ccfc7a1d5cf66f03cd1fe32f1b230202d9ef3c7b1d620b90c618ad51f6bb'
+cask 'pandoc' do
+  version '2.9.2'
+  sha256 '23b15416a4a1c2c64b5dbc4f23c480b11feb34dcf38a65f6346dc8faa7feab0b'
 
   # github.com/jgm/pandoc was verified as official when first introduced to the cask
   url "https://github.com/jgm/pandoc/releases/download/#{version}/pandoc-#{version}-macOS.pkg"

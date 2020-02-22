@@ -1,21 +1,25 @@
 # Overview #
 
-* **emailchemy**
- - Emailchemy is a perfect tool to convert E-Mail archives from different programs
+* **dosbox**
+ - Fixed version of DOSBox that is installable on case-sensitive file systems
+* **fresh**
+ - Tagging and file management https://ironicsoftware.com/fresh/
 * **hengedockapp**
  - The Henge DockApp is useful when you use a HengeDock docking station for your MacBook Pro
-* **java7**
- - The last version of Java 7 from caskroom/homebrew-versions
 * **kindle117**
  - The last version of the Kindle App that works with azw3
-* **moneymanagerex**
- - A comfortable financial planning tool
+* **leap**
+  - Tagging and file management https://ironicsoftware.com/leap/
 * **multibrowser**
  - A facade tool for dealing with multiple browsers - you may decide wich one will open a link
+* **net.downloadhelper.coapp**
+ - Video DownloadHelper Companion App https://www.downloadhelper.net/install-coapp
 * **pandoc**
  - As homebrew's pandoc is broken from time to time, I prefer to install the binary
-* **scribus15**
- - The next version of Scribus
+* **sozi**
+ - A "zooming" presentation editor http://sozi.baierouge.fr
+* **unclutter**
+ - A new handy place on your desktop for storing notes, files and pasteboard clips. https://unclutterapp.com/
 * **xzutils**
  - A collection of command line tools for dealing with XZ archives
 

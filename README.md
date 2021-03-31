@@ -27,4 +27,4 @@
 
 ## Install ##
 
-* `brew tap gbeine/homebrew-casks`
+* `brew tap toelke/homebrew-casks`
